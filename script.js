@@ -9,7 +9,7 @@
    Cole abaixo a URL do Web App do Apps Script (termina em /exec).
    Não coloque senhas nem credenciais neste arquivo.
    --------------------------------------------------------- */
-const API_URL = "COLE_AQUI_A_URL_DO_APPS_SCRIPT";
+const API_URL = "https://docs.google.com/spreadsheets/d/12kHIExQJrFFQo0jYYFlL0Hi1lho2ux9LImMwkM6dDYE/edit?gid=1523269019#gid=1523269019";
 
 const LIMITE_INICIAL = 20; // últimos registros mostrados ao abrir a página
 const TEMPO_LIMITE_MS = 60000; // o Apps Script pode demorar na primeira chamada
